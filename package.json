@@ -1,7 +1,7 @@
 {
   "name": "rehangk",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Sum of array elements | Removing duplicates | Finding the maximum element | Finding the minimum element | Calculating the average | Reversing the array | Finding the unique elements | Grouping elements by a key | Chunking the array | Flattening a nested array",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
