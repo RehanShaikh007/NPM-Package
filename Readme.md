@@ -1,3 +1,5 @@
+NPM Package- rehangk
+
 1. Sum of array elements
 2. Removing duplicates
 3. Finding the maximum element
